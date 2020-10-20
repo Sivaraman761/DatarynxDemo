@@ -1,0 +1,42 @@
+[
+  {
+    "WeekNo’": "wk33",
+    "WeekDate’": "08-09",
+    "StoreName’": "92783/NEW RANDOLPH STORE 0045",
+    "StoreAddress’": "330 3RD ST WEST RANDOLPH AFB TX 78150",
+    "CodingType’": "Item Coding",
+    "TaskState’": "Not Started"
+  },
+  {
+    "WeekNo’": "wk35",
+    "WeekDate’": "08-09",
+    "StoreName’": "24492783/NEW RANDOLPH STORE 0045",
+    "StoreAddress’": "530 3RD ST WEST RANDOLPH AFB TX 78150",
+    "CodingType’": "Item Coding",
+    "TaskState’": "Not Started"
+  },
+  {
+    "WeekNo’": "wk20",
+    "WeekDate’": "01-30",
+    "StoreName’": "13/NEW RADIAN STORE 0045",
+    "StoreAddress’": "430 3RD ST WEST RANDOLPH AFB TX 78150",
+    "CodingType’": "Item Coding",
+    "TaskState’": "In-Progress"
+  },
+  {
+    "WeekNo’": "wk10",
+    "WeekDate’": "02-23",
+    "StoreName’": "14492783/NEW SPENCER  STORE 025",
+    "StoreAddress’": "430 3RD ST WEST RANDOLPH AFB TX 78150",
+    "CodingType’": "Item Coding",
+    "TaskState’": "In-Progress"
+  },
+  {
+    "WeekNo’": "wk12",
+    "WeekDate’": "06-03",
+    "StoreName’": "14492783/NEW DMART STORE 34",
+    "StoreAddress’": "430 3RD ST WEST RANDOLPH AFB TX 78150",
+    "CodingType’": "Item Coding",
+    "TaskState’": "In-Progress"
+  }
+] 

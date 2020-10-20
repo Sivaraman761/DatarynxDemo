@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms" 
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:local="clr-namespace:DatarynxDemo.Views"
+       Title="DatarynxDemo"
+       x:Class="DatarynxDemo.AppShell">
+
+    <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
+        <ShellContent Title="About" Route="AboutPage" ContentTemplate="{DataTemplate local:AboutPage}" />
+        <ShellContent Title="Logout" ContentTemplate="{DataTemplate local:LogoutPage}" />
+    </FlyoutItem>
+
+</Shell>
